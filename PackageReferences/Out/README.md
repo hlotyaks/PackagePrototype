@@ -1,0 +1,1 @@
+## Out contains build artifacts needed by other projects
